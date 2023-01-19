@@ -1,4 +1,4 @@
-const clientId = '12345678910111213';  // Coloque o ID do seu BOT https://discord.com/developers/applications
+const clientId = '12345678910111213';  // Coloque o ID da sua Aplicação no Discord/Applications https://discord.com/developers/applications
 
 // Dependencias 
 
