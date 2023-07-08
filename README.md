@@ -1,4 +1,4 @@
-# RechPresence Discord
+# RechPresence Discord.
 
 Código feito para Aplicações Desktop em Javavscript
 
